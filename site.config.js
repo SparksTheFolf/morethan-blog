@@ -11,13 +11,13 @@ const CONFIG = {
     instagram: "nolantrpp",
   },
   projects: [
+     {
+      name: `Meme API`,
+      href: "https://github.com/SparksTheFolf/furrymemeapi",
+    },
     {
       name: `Easy DiscordJS`,
       href: "https://github.com/SparksTheFolf/discordjs-extend",
-    },
-    {
-      name: `Meme API`,
-      href: "https://github.com/SparksTheFolf/furrymemeapi",
     },
     {
       name: `Machine Learning Model`,
