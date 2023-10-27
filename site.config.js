@@ -22,7 +22,7 @@ const CONFIG = {
     {
       name: `Machine Learning Model`,
       href: "https://github.com/SparksTheFolf/Timmy-Machine-Learning",
-    },
+    }
   ],
   // blog setting (required)
   blog: {
