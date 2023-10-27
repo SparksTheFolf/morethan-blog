@@ -12,8 +12,16 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `Easy DiscordJS`,
+      href: "https://github.com/SparksTheFolf/discordjs-extend",
+    },
+    {
+      name: `Meme API`,
+      href: "https://github.com/SparksTheFolf/furrymemeapi",
+    },
+    {
+      name: `Machine Learning Model`,
+      href: "https://github.com/SparksTheFolf/Timmy-Machine-Learning",
     },
   ],
   // blog setting (required)
